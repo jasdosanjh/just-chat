@@ -1,21 +1,12 @@
-# just-chat
+## Just Chat!
+Just chat is a simple chat web app made using Vue.js.
 
-> A Vue.js project
+## Live Demo:
+https://just-chat-6aa8d.firebaseapp.com
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Built With
+* HTML5
+* CSS3 (Materialize)
+* JavaScript (ES6+)
+* Vue.js
+* Google Firebase
